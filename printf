@@ -1,0 +1,13 @@
+<?php
+
+$num=2000;
+$city="Mandalay";
+//printf(format);
+printf(There are %u);
+
+
+
+
+
+
+?>
